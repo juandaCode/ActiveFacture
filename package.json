@@ -1,0 +1,16 @@
+{
+  "name": "activefacture",
+  "version": "1.0.0",
+  "description": "Accountant Software With Node MVC",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "mvc",
+    "javascript"
+  ],
+  "author": "JuandaCode",
+  "license": "MIT"
+}
