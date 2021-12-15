@@ -12,5 +12,8 @@
     "javascript"
   ],
   "author": "JuandaCode",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
